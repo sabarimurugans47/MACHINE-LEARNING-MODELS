@@ -1,32 +1,27 @@
-<h1 align="center">
-  🧠 <span style="font-family: 'Trebuchet MS'; font-weight: 700; background: linear-gradient(270deg, #007CF0, #00DFD8, #FF0080, #7928CA); background-size: 800% 800%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientMove 8s ease infinite;">
-    Machine Learning Model Project
-  </span>
+<h1 align="center" style="font-family: 'Trebuchet MS'; font-weight: 700; font-size: 3rem; background: linear-gradient(270deg, #007CF0, #00DFD8, #FF0080, #7928CA); background-size: 800% 800%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientMove 8s ease infinite;">
+  🧠 Machine Learning Model Project
 </h1>
 
 <h3 align="center">
   By <b>Sabari Murugan S</b> — Aspiring ML Engineer | Final Year AIML Student  
 </h3>
 
----
+<hr/>
 
-<h4 align="center">🚀 “Building Intelligence Through Code — One Model at a Time”</h4>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="80%"/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/graph.svg" width="80%">
-</p>
+<h4 align="center" style="animation: pulseGlow 2s infinite;">
+  🚀 “Building Intelligence Through Code — One Model at a Time”
+</h4>
 
 ---
 
 ## 📌 What This Project Means to Me
 
-💡 *Applied ML concepts from class & self-study*  
-🔄 *Understood end-to-end ML pipeline flow*  
-💻 *Wrote modular, elegant Python code*  
-🌟 *Strengthened my data science foundation*  
+<p style="font-style: italic; animation: textGlow 3s infinite alternate;">
+💡 Applied ML concepts from class & self-study  
+🔄 Understood end-to-end ML pipeline flow  
+💻 Wrote modular, elegant Python code  
+🌟 Strengthened my data science foundation  
+</p>
 
 ---
 
@@ -34,65 +29,58 @@
 
 🧹 Data Cleaning | 📊 Visualization | 🤖 Model Building | ⚡ Feature Selection | 💾 Model Saving | 🧩 Modular Design  
 
-<table>
-<tr>
-<td><img src="https://progress-bar.dev/80/?title=Data%20Cleaning&width=300&color=00ff99&animated=true"></td>
-</tr>
-<tr>
-<td><img src="https://progress-bar.dev/75/?title=Visualization&width=300&color=99ff00&animated=true"></td>
-</tr>
-<tr>
-<td><img src="https://progress-bar.dev/85/?title=Model%20Building&width=300&color=ffff00&animated=true"></td>
-</tr>
-<tr>
-<td><img src="https://progress-bar.dev/70/?title=Feature%20Selection&width=300&color=ff9900&animated=true"></td>
-</tr>
-<tr>
-<td><img src="https://progress-bar.dev/80/?title=Model%20Saving&width=300&color=00ff66&animated=true"></td>
-</tr>
-</table>
+<div style="font-family: monospace; width: 320px; margin: 0 auto;">
+  <div><b>Data Cleaning:</b> <span class="loading-bar" style="--progress:80;"></span></div>
+  <div><b>Visualization:</b> <span class="loading-bar" style="--progress:75;"></span></div>
+  <div><b>Model Building:</b> <span class="loading-bar" style="--progress:85;"></span></div>
+  <div><b>Feature Selection:</b> <span class="loading-bar" style="--progress:70;"></span></div>
+  <div><b>Model Saving:</b> <span class="loading-bar" style="--progress:80;"></span></div>
+</div>
 
 ---
 
 ## 🧪 Tools & Technologies Used
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoAnimation=spin"/> 
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&logoAnimation=pulse"/> 
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&logoAnimation=breathe"/> 
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&logoAnimation=beat"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white&logoAnimation=wave"/>
+  <span class="badge-spin" style="background:#3776AB; padding:8px 16px; border-radius:12px; color:white; font-weight:bold; margin:4px; display:inline-block;">Python</span>
+  <span class="badge-pulse" style="background:#150458; padding:8px 16px; border-radius:12px; color:white; font-weight:bold; margin:4px; display:inline-block;">Pandas</span>
+  <span class="badge-breathe" style="background:#013243; padding:8px 16px; border-radius:12px; color:white; font-weight:bold; margin:4px; display:inline-block;">NumPy</span>
+  <span class="badge-beat" style="background:#F7931E; padding:8px 16px; border-radius:12px; color:white; font-weight:bold; margin:4px; display:inline-block;">Scikit-Learn</span>
+  <span class="badge-wave" style="background:#11557C; padding:8px 16px; border-radius:12px; color:white; font-weight:bold; margin:4px; display:inline-block;">Matplotlib</span>
 </p>
 
 ---
 
 ### ⚙️ Live Skill Indicators
 
-<p align="center">
-  <img src="https://assets8.lottiefiles.com/packages/lf20_Stt1R5.json" width="200">
-</p>
-
-| Skill | Level |
-|-------|--------|
-| Python | ![](https://img.shields.io/badge/█████-100%25-brightgreen?style=flat-square) |
-| Pandas | ![](https://img.shields.io/badge/████-80%25-green?style=flat-square) |
-| NumPy | ![](https://img.shields.io/badge/████-80%25-green?style=flat-square) |
-| ML Models | ![](https://img.shields.io/badge/█████-95%25-brightgreen?style=flat-square) |
-| Visualization | ![](https://img.shields.io/badge/████-85%25-green?style=flat-square) |
+<table align="center" style="border-collapse: collapse; margin: 0 auto; font-family: monospace;">
+  <tr>
+    <th align="left">Skill</th>
+    <th align="left">Level</th>
+  </tr>
+  <tr><td>Python</td><td><span class="animated-dots" style="--count:5;">🟢</span> 100%</td></tr>
+  <tr><td>Pandas</td><td><span class="animated-dots" style="--count:4;">🟢</span><span>⚪</span> 80%</td></tr>
+  <tr><td>NumPy</td><td><span class="animated-dots" style="--count:4;">🟢</span><span>⚪</span> 80%</td></tr>
+  <tr><td>ML Models</td><td><span class="animated-dots" style="--count:5;">🟢</span> 95%</td></tr>
+  <tr><td>Visualization</td><td><span class="animated-dots" style="--count:4;">🟢</span><span>⚪</span> 85%</td></tr>
+</table>
 
 ---
 
 ## 🌱 My Learning Path
 
+<p style="animation: textGlow 3s infinite alternate;">
 📘 Python · 📗 pandas · 📙 SQL · 📒 Excel & Power BI  
 ☁️ AWS & Cloud Deployment *(coming soon!)*  
 🧠 Deep Learning with TensorFlow & Keras  
+</p>
 
 ---
 
-### 🔄 ML Pipeline Flow (Animated)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ValentinH/statistics-illustrations/master/ML_pipeline_animation.gif" width="80%">
+### 🔄 ML Pipeline Flow (Animated in text)
+
+<p align="center" style="font-family: monospace; font-size:1.2rem; color:#00dfd8; animation: slideHue 5s linear infinite;">
+  ➡️ Data Cleaning ➡️ Feature Engineering ➡️ Model Building ➡️ Evaluation ➡️ Deployment ➡️ Monitoring
 </p>
 
 ---
@@ -102,5 +90,90 @@
   0% {background-position: 0% 50%;}
   50% {background-position: 100% 50%;}
   100% {background-position: 0% 50%;}
+}
+@keyframes pulseGlow {
+  0%, 100% {text-shadow: 0 0 10px #00DFD8, 0 0 20px #007CF0;}
+  50% {text-shadow: 0 0 20px #FF0080, 0 0 30px #7928CA;}
+}
+@keyframes textGlow {
+  0% {color: #007CF0;}
+  50% {color: #FF0080;}
+  100% {color: #7928CA;}
+}
+@keyframes slideHue {
+  0% {filter: hue-rotate(0deg);}
+  100% {filter: hue-rotate(360deg);}
+}
+.loading-bar {
+  display: inline-block;
+  width: 300px;
+  height: 20px;
+  background: #ddd;
+  border-radius: 10px;
+  position: relative;
+  overflow: hidden;
+  margin: 6px 0;
+  vertical-align: middle;
+}
+.loading-bar::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: calc(var(--progress) * 1%);
+  background: linear-gradient(270deg, #00DFD8, #007CF0, #00DFD8);
+  animation: fillBar 3s ease forwards;
+  border-radius: 10px;
+}
+@keyframes fillBar {
+  from {width: 0;}
+  to {width: calc(var(--progress) * 1%);}
+}
+.badge-spin { animation: spin 3s linear infinite; }
+.badge-pulse { animation: pulse 2.5s ease-in-out infinite; }
+.badge-breathe { animation: breathe 3s ease-in-out infinite; }
+.badge-beat { animation: beat 1.5s ease-in-out infinite; }
+.badge-wave { animation: wave 3s ease-in-out infinite; color:white; }
+
+@keyframes spin {
+  0% { transform: rotate(0deg);}
+  100% { transform: rotate(360deg);}
+}
+@keyframes pulse {
+  0%, 100% {opacity: 1;}
+  50% {opacity: 0.6;}
+}
+@keyframes breathe {
+  0%, 100% {opacity: 0.4;}
+  50% {opacity: 1;}
+}
+@keyframes beat {
+  0%, 100% {transform: scale(1);}
+  50% {transform: scale(1.1);}
+}
+@keyframes wave {
+  0%, 100% {color: #11557C;}
+  50% {color: #00DFD8;}
+}
+
+/* Animated dots for skill */
+.animated-dots {
+  --count: 5;
+  display: inline-block;
+}
+.animated-dots > span {
+  animation: blinkDots 1.5s infinite;
+  animation-delay: calc(var(--i) * 0.3s);
+}
+.animated-dots > span:nth-child(1) { --i: 0;}
+.animated-dots > span:nth-child(2) { --i: 1;}
+.animated-dots > span:nth-child(3) { --i: 2;}
+.animated-dots > span:nth-child(4) { --i: 3;}
+.animated-dots > span:nth-child(5) { --i: 4;}
+
+@keyframes blinkDots {
+  0%, 100% {opacity: 1;}
+  50% {opacity: 0.3;}
 }
 </style>
