@@ -1,112 +1,85 @@
 <h1 align="center" style="
-  font-family: 'Poppins', 'Trebuchet MS', sans-serif;
+  font-family: 'Segoe UI Black', 'Poppins', 'Trebuchet MS', sans-serif;
   font-weight: 900;
-  font-size: 3.5rem;
-  background: linear-gradient(90deg, #FF00FF, #00FFFF, #FF4500, #FFFF00);
+  font-size: 4rem;
+  background: linear-gradient(270deg, #FF00FF, #00FFFF, #FF4500, #FFFF00, #FF00FF);
+  background-size: 1200% 1200%;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  filter: drop-shadow(2px 2px 5px rgba(255,0,255,0.7));
-  letter-spacing: 3px;
+  animation: ultraGradientMove 10s ease infinite;
+  filter: drop-shadow(4px 4px 10px rgba(255, 0, 255, 0.9));
+  letter-spacing: 0.2em;
   text-transform: uppercase;
-  ">
-  🧠 Machine Learning Model Project
+  margin-bottom: 30px;
+">
+  🤖 Machine Learning Models
 </h1>
 
-<h3 align="center" style="
-  font-family: 'Montserrat', 'Trebuchet MS', sans-serif;
-  color: #FF1493;
-  font-weight: 700;
-  font-size: 1.4rem;
-  text-shadow: 1px 1px 2px #00FFFF;
-  margin-top: -10px;
-  ">
-  By <b style="color:#00FFFF;">Sabari Murugan S</b> — Aspiring ML Engineer | Final Year AIML Student  
-</h3>
+---
 
-<hr style="border: 3px solid #FF00FF; width: 90%; margin: 20px auto; box-shadow: 0 0 8px #FF00FF;"/>
+## 🎓 About This Repository
 
-<h4 align="center" style="
-  color: #FF4500;
-  font-family: 'Arial Black', Arial, sans-serif;
-  font-size: 1.3rem;
-  letter-spacing: 1.5px;
-  text-shadow: 0 0 8px #FF4500, 0 0 12px #FF4500;
-  margin-bottom: 25px;
-">
-  🚀 “Building Intelligence Through Code — One Model at a Time”
-</h4>
+This repository is a **showcase of advanced machine learning models** I built as part of my aspiring ML engineer journey. It highlights strong skills in designing, training, and deploying intelligent AI solutions with highly attractive visuals and polished presentation.
 
 ---
 
-## 📌 What This Project Means to Me
+## 🌈 Core Skills and Focus Areas Demonstrated
 
-<p style="
-  font-style: italic; 
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: #FFA500;
-  font-weight: 600;
-  text-shadow: 1px 1px 4px #000;
-  line-height: 1.6;
-">
-💡 Applied ML concepts from class & self-study<br>
-🔄 Understood end-to-end ML pipeline flow<br>
-💻 Wrote modular, elegant Python code<br>
-🌟 Strengthened my data science foundation  
-</p>
+### 🐍 Machine Learning & Python Programming
 
----
+- Mastery of **Python**, **pandas**, **NumPy**, **scikit-learn**, and cutting-edge ML libraries  
+- Building robust, high-accuracy predictive models and end-to-end ML pipelines  
 
-## 🛠 Skills Demonstrated
+### 📊 Data Visualization & Reporting
 
-🧹 <span style="color:#00CED1">Data Cleaning</span> | 📊 <span style="color:#1E90FF">Visualization</span> | 🤖 <span style="color:#FF6347">Model Building</span> | ⚡ <span style="color:#FFD700">Feature Selection</span> | 💾 <span style="color:#32CD32">Model Saving</span> | 🧩 <span style="color:#FF69B4">Modular Design</span>  
+- Expert dashboarding and insightful visual storytelling with **Power BI** & **Excel**  
 
-<div style="font-family: 'Courier New', Courier, monospace; width: 350px; margin: 20px auto;">
-  <div><b>Data Cleaning:</b> <div style="background:#FF00FF; border-radius:12px; height:22px; width:80%; box-shadow: 0 0 10px #FF00FF inset;"></div></div>
-  <div><b>Visualization:</b> <div style="background:#00FFFF; border-radius:12px; height:22px; width:75%; box-shadow: 0 0 10px #00FFFF inset;"></div></div>
-  <div><b>Model Building:</b> <div style="background:#FF4500; border-radius:12px; height:22px; width:85%; box-shadow: 0 0 10px #FF4500 inset;"></div></div>
-  <div><b>Feature Selection:</b> <div style="background:#FFD700; border-radius:12px; height:22px; width:70%; box-shadow: 0 0 10px #FFD700 inset;"></div></div>
-  <div><b>Model Saving:</b> <div style="background:#32CD32; border-radius:12px; height:22px; width:80%; box-shadow: 0 0 10px #32CD32 inset;"></div></div>
-</div>
+### 🗄️ Data Management & SQL
+
+- Proficient management of data, including querying, preprocessing, and quality assurance  
 
 ---
 
-## 🧪 Tools & Technologies Used
+## 🚀 Featured Projects
 
-<p align="center" style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-weight: bold; font-size: 1.1rem; color:#FF69B4; text-shadow: 0 0 7px #FF69B4;">
-  <span style="background:#FF00FF; padding: 10px 18px; border-radius: 16px; margin: 5px; box-shadow: 0 0 12px #FF00FF;">Python</span>
-  <span style="background:#00FFFF; padding: 10px 18px; border-radius: 16px; margin: 5px; box-shadow: 0 0 12px #00FFFF;">Pandas</span>
-  <span style="background:#FF4500; padding: 10px 18px; border-radius: 16px; margin: 5px; box-shadow: 0 0 12px #FF4500;">NumPy</span>
-  <span style="background:#FFD700; padding: 10px 18px; border-radius: 16px; margin: 5px; box-shadow: 0 0 12px #FFD700;">Scikit-Learn</span>
-  <span style="background:#32CD32; padding: 10px 18px; border-radius: 16px; margin: 5px; box-shadow: 0 0 12px #32CD32;">Matplotlib</span>
-</p>
+- 💓 **Heart Disease Prediction**: Real-world dataset, full ML lifecycle  
+- 🧠 **Stroke Prediction**: Comprehensive pipeline from raw data to evaluation  
+- 🔍 Additional innovative ML applications and experimental model deployments  
 
 ---
 
-### ⚙️ Skill Levels
+## 📜 Certifications & Training
 
-<table align="center" style="border-collapse: collapse; margin: 0 auto; font-family: 'Courier New', Courier, monospace; font-weight: 700; font-size: 1rem; color:#FF1493;">
-  <tr><th align="left" style="padding: 10px;">Skill</th><th align="left" style="padding: 10px;">Level</th></tr>
-  <tr><td style="padding:10px;">Python</td><td style="padding:10px;"><span style="color:#00FF7F;">🟢🟢🟢🟢🟢</span> 100%</td></tr>
-  <tr><td style="padding:10px;">Pandas</td><td style="padding:10px;"><span style="color:#00FF7F;">🟢🟢🟢🟢</span><span style="color:#BBBBBB;">⚪</span> 80%</td></tr>
-  <tr><td style="padding:10px;">NumPy</td><td style="padding:10px;"><span style="color:#00FF7F;">🟢🟢🟢🟢</span><span style="color:#BBBBBB;">⚪</span> 80%</td></tr>
-  <tr><td style="padding:10px;">ML Models</td><td style="padding:10px;"><span style="color:#00FF7F;">🟢🟢🟢🟢🟢</span> 95%</td></tr>
-  <tr><td style="padding:10px;">Visualization</td><td style="padding:10px;"><span style="color:#00FF7F;">🟢🟢🟢🟢</span><span style="color:#BBBBBB;">⚪</span> 85%</td></tr>
-</table>
+- Certified in **Power BI**, **SQL for Data Analytics**, **Excel for Data Analysis**  
+- Skilled in leveraging **AI Low-code / No-code platforms** for rapid prototyping  
 
 ---
 
-## 🌱 My Learning Path
+## 🎯 Ambitions & Career Goals
 
-<p style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-weight: 600; font-size: 1.2rem; color: #FF4500; text-shadow: 0 0 8px #FF4500; line-height: 1.5;">
-📘 Python · 📗 pandas · 📙 SQL · 📒 Excel & Power BI<br>
-☁️ AWS & Cloud Deployment <i style="color:#00FFFF;">(coming soon!)</i><br>
-🧠 Deep Learning with TensorFlow & Keras  
-</p>
+- Targeting dynamic **Data Science roles and internships** to elevate skills  
+- Building **scalable, real-world ML systems** impacting healthcare, finance, and business  
+- Driven to deliver actionable AI-powered insights for critical sectors  
 
 ---
 
-### 🔄 ML Pipeline Flow
+## 🔮 Long-Term Vision
 
-<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 1.3rem; color:#00FFFF; font-weight: 700; text-shadow: 0 0 12px #00FFFF;">
-➡️ Data Cleaning ➡️ Feature Engineering ➡️ Model Building ➡️ Evaluation ➡️ Deployment ➡️ Monitoring
-</p>
+- Become a pioneer **Machine Learning Engineer** delivering innovative, efficient AI solutions  
+
+---
+
+## 🤝 Let’s Connect & Collaborate
+
+- Open to mentorship, knowledge exchange, and professional partnerships in **AI & ML**  
+- Committed to consistent learning and impactful project contributions  
+
+---
+
+<style>
+@keyframes ultraGradientMove {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
+</style>
