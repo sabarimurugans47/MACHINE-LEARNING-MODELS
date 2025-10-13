@@ -125,70 +125,70 @@
   to { width: var(--width, 80%); }
 }
 .badge-spin {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #3776AB;
+  border-radius: 12px;
   color: white;
   font-weight: bold;
-  padding: 8px 16px;
-  border-radius: 12px;
-  margin: 4px;
-  display: inline-block;
   animation: spin 3s linear infinite;
 }
 .badge-pulse {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #150458;
+  border-radius: 12px;
   color: white;
   font-weight: bold;
-  padding: 8px 16px;
-  border-radius: 12px;
-  margin: 4px;
-  display: inline-block;
   animation: pulse 2.5s ease-in-out infinite;
 }
 .badge-breathe {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #013243;
+  border-radius: 12px;
   color: white;
   font-weight: bold;
-  padding: 8px 16px;
-  border-radius: 12px;
-  margin: 4px;
-  display: inline-block;
   animation: breathe 3s ease-in-out infinite;
 }
 .badge-beat {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #F7931E;
+  border-radius: 12px;
   color: white;
   font-weight: bold;
-  padding: 8px 16px;
-  border-radius: 12px;
-  margin: 4px;
-  display: inline-block;
   animation: beat 1.5s ease-in-out infinite;
 }
 .badge-wave {
+  display: inline-block;
+  padding: 8px 16px;
+  background: #11557C;
+  border-radius: 12px;
   color: white;
   font-weight: bold;
-  padding: 8px 16px;
-  border-radius: 12px;
-  margin: 4px;
-  display: inline-block;
   animation: wave 3s ease-in-out infinite;
 }
 
 @keyframes spin {
-  0% { transform: rotate(0deg);}
-  100% { transform: rotate(360deg);}
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
 }
 @keyframes pulse {
-  0%, 100% {opacity: 1;}
-  50% {opacity: 0.6;}
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
 }
 @keyframes breathe {
-  0%, 100% {opacity: 0.4;}
-  50% {opacity: 1;}
+  0%, 100% { opacity: 0.4; }
+  50% { opacity: 1; }
 }
 @keyframes beat {
-  0%, 100% {transform: scale(1);}
-  50% {transform: scale(1.1);}
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.1); }
 }
 @keyframes wave {
-  0%, 100% {color: #11557C;}
-  50% {color: #00DFD8;}
+  0%, 100% { color: #11557C; }
+  50% { color: #00DFD8; }
 }
 
 .skill-dot {
@@ -199,18 +199,17 @@
   border-radius: 50%;
   display: inline-block;
   animation: blinkDot 2s infinite;
-  animation-fill-mode: both;
 }
 .skill-dot.active {
   background-color: #00DFD8;
   animation: blinkDotActive 2s infinite;
 }
 @keyframes blinkDot {
-  0%, 100% {opacity: 0.3;}
-  50% {opacity: 1;}
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 1; }
 }
 @keyframes blinkDotActive {
-  0%, 100% {opacity: 1;}
-  50% {opacity: 0.6;}
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
 }
 </style>
