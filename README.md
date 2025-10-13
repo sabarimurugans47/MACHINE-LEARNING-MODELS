@@ -1,14 +1,38 @@
-<h1 align="center" style="font-family: 'Trebuchet MS'; font-weight: 700; font-size: 3rem; background: linear-gradient(270deg, #007CF0, #00DFD8, #FF0080, #7928CA); background-size: 800% 800%; -webkit-background-clip: text; -webkit-text-fill-color: transparent; animation: gradientMove 8s ease infinite;">
+<h1 align="center" style="
+  font-family: 'Poppins', 'Trebuchet MS', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  background: linear-gradient(90deg, #FF00FF, #00FFFF, #FF4500, #FFFF00);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(2px 2px 5px rgba(255,0,255,0.7));
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  ">
   🧠 Machine Learning Model Project
 </h1>
 
-<h3 align="center">
-  By <b>Sabari Murugan S</b> — Aspiring ML Engineer | Final Year AIML Student  
+<h3 align="center" style="
+  font-family: 'Montserrat', 'Trebuchet MS', sans-serif;
+  color: #FF1493;
+  font-weight: 700;
+  font-size: 1.4rem;
+  text-shadow: 1px 1px 2px #00FFFF;
+  margin-top: -10px;
+  ">
+  By <b style="color:#00FFFF;">Sabari Murugan S</b> — Aspiring ML Engineer | Final Year AIML Student  
 </h3>
 
-<hr/>
+<hr style="border: 3px solid #FF00FF; width: 90%; margin: 20px auto; box-shadow: 0 0 8px #FF00FF;"/>
 
-<h4 align="center" style="animation: pulseGlow 2s infinite;">
+<h4 align="center" style="
+  color: #FF4500;
+  font-family: 'Arial Black', Arial, sans-serif;
+  font-size: 1.3rem;
+  letter-spacing: 1.5px;
+  text-shadow: 0 0 8px #FF4500, 0 0 12px #FF4500;
+  margin-bottom: 25px;
+">
   🚀 “Building Intelligence Through Code — One Model at a Time”
 </h4>
 
@@ -16,10 +40,17 @@
 
 ## 📌 What This Project Means to Me
 
-<p style="font-style: italic; animation: textGlow 3s infinite alternate;">
-💡 Applied ML concepts from class & self-study  
-🔄 Understood end-to-end ML pipeline flow  
-💻 Wrote modular, elegant Python code  
+<p style="
+  font-style: italic; 
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #FFA500;
+  font-weight: 600;
+  text-shadow: 1px 1px 4px #000;
+  line-height: 1.6;
+">
+💡 Applied ML concepts from class & self-study<br>
+🔄 Understood end-to-end ML pipeline flow<br>
+💻 Wrote modular, elegant Python code<br>
 🌟 Strengthened my data science foundation  
 </p>
 
@@ -27,189 +58,55 @@
 
 ## 🛠 Skills Demonstrated
 
-🧹 Data Cleaning | 📊 Visualization | 🤖 Model Building | ⚡ Feature Selection | 💾 Model Saving | 🧩 Modular Design  
+🧹 <span style="color:#00CED1">Data Cleaning</span> | 📊 <span style="color:#1E90FF">Visualization</span> | 🤖 <span style="color:#FF6347">Model Building</span> | ⚡ <span style="color:#FFD700">Feature Selection</span> | 💾 <span style="color:#32CD32">Model Saving</span> | 🧩 <span style="color:#FF69B4">Modular Design</span>  
 
-<div style="font-family: monospace; width: 320px; margin: 0 auto;">
-  <div><b>Data Cleaning:</b> <div class="progress-bar"><div class="progress" style="width: 80%;"></div></div></div>
-  <div><b>Visualization:</b> <div class="progress-bar"><div class="progress" style="width: 75%;"></div></div></div>
-  <div><b>Model Building:</b> <div class="progress-bar"><div class="progress" style="width: 85%;"></div></div></div>
-  <div><b>Feature Selection:</b> <div class="progress-bar"><div class="progress" style="width: 70%;"></div></div></div>
-  <div><b>Model Saving:</b> <div class="progress-bar"><div class="progress" style="width: 80%;"></div></div></div>
+<div style="font-family: 'Courier New', Courier, monospace; width: 350px; margin: 20px auto;">
+  <div><b>Data Cleaning:</b> <div style="background:#FF00FF; border-radius:12px; height:22px; width:80%; box-shadow: 0 0 10px #FF00FF inset;"></div></div>
+  <div><b>Visualization:</b> <div style="background:#00FFFF; border-radius:12px; height:22px; width:75%; box-shadow: 0 0 10px #00FFFF inset;"></div></div>
+  <div><b>Model Building:</b> <div style="background:#FF4500; border-radius:12px; height:22px; width:85%; box-shadow: 0 0 10px #FF4500 inset;"></div></div>
+  <div><b>Feature Selection:</b> <div style="background:#FFD700; border-radius:12px; height:22px; width:70%; box-shadow: 0 0 10px #FFD700 inset;"></div></div>
+  <div><b>Model Saving:</b> <div style="background:#32CD32; border-radius:12px; height:22px; width:80%; box-shadow: 0 0 10px #32CD32 inset;"></div></div>
 </div>
 
 ---
 
 ## 🧪 Tools & Technologies Used
 
-<p align="center">
-  <span class="badge-spin" style="background:#3776AB;">Python</span>
-  <span class="badge-pulse" style="background:#150458;">Pandas</span>
-  <span class="badge-breathe" style="background:#013243;">NumPy</span>
-  <span class="badge-beat" style="background:#F7931E;">Scikit-Learn</span>
-  <span class="badge-wave" style="background:#11557C;">Matplotlib</span>
+<p align="center" style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-weight: bold; font-size: 1.1rem; color:#FF69B4; text-shadow: 0 0 7px #FF69B4;">
+  <span style="background:#FF00FF; padding: 10px 18px; border-radius: 16px; margin: 5px; box-shadow: 0 0 12px #FF00FF;">Python</span>
+  <span style="background:#00FFFF; padding: 10px 18px; border-radius: 16px; margin: 5px; box-shadow: 0 0 12px #00FFFF;">Pandas</span>
+  <span style="background:#FF4500; padding: 10px 18px; border-radius: 16px; margin: 5px; box-shadow: 0 0 12px #FF4500;">NumPy</span>
+  <span style="background:#FFD700; padding: 10px 18px; border-radius: 16px; margin: 5px; box-shadow: 0 0 12px #FFD700;">Scikit-Learn</span>
+  <span style="background:#32CD32; padding: 10px 18px; border-radius: 16px; margin: 5px; box-shadow: 0 0 12px #32CD32;">Matplotlib</span>
 </p>
 
 ---
 
-### ⚙️ Live Skill Indicators
+### ⚙️ Skill Levels
 
-<table align="center" style="border-collapse: collapse; margin: 0 auto; font-family: monospace;">
-  <tr>
-    <th align="left">Skill</th>
-    <th align="left">Level</th>
-  </tr>
-  <tr><td>Python</td><td><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span> 100%</td></tr>
-  <tr><td>Pandas</td><td><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot"></span> 80%</td></tr>
-  <tr><td>NumPy</td><td><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot"></span> 80%</td></tr>
-  <tr><td>ML Models</td><td><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span> 95%</td></tr>
-  <tr><td>Visualization</td><td><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot"></span> 85%</td></tr>
+<table align="center" style="border-collapse: collapse; margin: 0 auto; font-family: 'Courier New', Courier, monospace; font-weight: 700; font-size: 1rem; color:#FF1493;">
+  <tr><th align="left" style="padding: 10px;">Skill</th><th align="left" style="padding: 10px;">Level</th></tr>
+  <tr><td style="padding:10px;">Python</td><td style="padding:10px;"><span style="color:#00FF7F;">🟢🟢🟢🟢🟢</span> 100%</td></tr>
+  <tr><td style="padding:10px;">Pandas</td><td style="padding:10px;"><span style="color:#00FF7F;">🟢🟢🟢🟢</span><span style="color:#BBBBBB;">⚪</span> 80%</td></tr>
+  <tr><td style="padding:10px;">NumPy</td><td style="padding:10px;"><span style="color:#00FF7F;">🟢🟢🟢🟢</span><span style="color:#BBBBBB;">⚪</span> 80%</td></tr>
+  <tr><td style="padding:10px;">ML Models</td><td style="padding:10px;"><span style="color:#00FF7F;">🟢🟢🟢🟢🟢</span> 95%</td></tr>
+  <tr><td style="padding:10px;">Visualization</td><td style="padding:10px;"><span style="color:#00FF7F;">🟢🟢🟢🟢</span><span style="color:#BBBBBB;">⚪</span> 85%</td></tr>
 </table>
 
 ---
 
 ## 🌱 My Learning Path
 
-<p style="animation: textGlow 3s infinite alternate;">
-📘 Python · 📗 pandas · 📙 SQL · 📒 Excel & Power BI  
-☁️ AWS & Cloud Deployment *(coming soon!)*  
+<p style="font-family: 'Verdana', Geneva, Tahoma, sans-serif; font-weight: 600; font-size: 1.2rem; color: #FF4500; text-shadow: 0 0 8px #FF4500; line-height: 1.5;">
+📘 Python · 📗 pandas · 📙 SQL · 📒 Excel & Power BI<br>
+☁️ AWS & Cloud Deployment <i style="color:#00FFFF;">(coming soon!)</i><br>
 🧠 Deep Learning with TensorFlow & Keras  
 </p>
 
 ---
 
-### 🔄 ML Pipeline Flow (Animated in text)
+### 🔄 ML Pipeline Flow
 
-<p align="center" style="font-family: monospace; font-size:1.2rem; color:#00dfd8; animation: slideHue 5s linear infinite;">
-  ➡️ Data Cleaning ➡️ Feature Engineering ➡️ Model Building ➡️ Evaluation ➡️ Deployment ➡️ Monitoring
+<p align="center" style="font-family: 'Courier New', Courier, monospace; font-size: 1.3rem; color:#00FFFF; font-weight: 700; text-shadow: 0 0 12px #00FFFF;">
+➡️ Data Cleaning ➡️ Feature Engineering ➡️ Model Building ➡️ Evaluation ➡️ Deployment ➡️ Monitoring
 </p>
-
----
-
-<style>
-@keyframes gradientMove {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-@keyframes pulseGlow {
-  0%, 100% {text-shadow: 0 0 10px #00DFD8, 0 0 20px #007CF0;}
-  50% {text-shadow: 0 0 20px #FF0080, 0 0 30px #7928CA;}
-}
-@keyframes textGlow {
-  0% {color: #007CF0;}
-  50% {color: #FF0080;}
-  100% {color: #7928CA;}
-}
-@keyframes slideHue {
-  0% {filter: hue-rotate(0deg);}
-  100% {filter: hue-rotate(360deg);}
-}
-.progress-bar {
-  background: #ddd;
-  border-radius: 10px;
-  height: 20px;
-  width: 300px;
-  margin: 6px 0;
-  overflow: hidden;
-  position: relative;
-}
-.progress {
-  height: 100%;
-  background: linear-gradient(270deg, #00DFD8, #007CF0, #00DFD8);
-  animation: fillWidth 2s ease forwards;
-  border-radius: 10px 0 0 10px;
-  width: 0%;
-}
-@keyframes fillWidth {
-  from { width: 0; }
-  to { width: var(--width, 80%); }
-}
-.badge-spin {
-  display: inline-block;
-  padding: 8px 16px;
-  background: #3776AB;
-  border-radius: 12px;
-  color: white;
-  font-weight: bold;
-  animation: spin 3s linear infinite;
-}
-.badge-pulse {
-  display: inline-block;
-  padding: 8px 16px;
-  background: #150458;
-  border-radius: 12px;
-  color: white;
-  font-weight: bold;
-  animation: pulse 2.5s ease-in-out infinite;
-}
-.badge-breathe {
-  display: inline-block;
-  padding: 8px 16px;
-  background: #013243;
-  border-radius: 12px;
-  color: white;
-  font-weight: bold;
-  animation: breathe 3s ease-in-out infinite;
-}
-.badge-beat {
-  display: inline-block;
-  padding: 8px 16px;
-  background: #F7931E;
-  border-radius: 12px;
-  color: white;
-  font-weight: bold;
-  animation: beat 1.5s ease-in-out infinite;
-}
-.badge-wave {
-  display: inline-block;
-  padding: 8px 16px;
-  background: #11557C;
-  border-radius: 12px;
-  color: white;
-  font-weight: bold;
-  animation: wave 3s ease-in-out infinite;
-}
-
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.6; }
-}
-@keyframes breathe {
-  0%, 100% { opacity: 0.4; }
-  50% { opacity: 1; }
-}
-@keyframes beat {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-}
-@keyframes wave {
-  0%, 100% { color: #11557C; }
-  50% { color: #00DFD8; }
-}
-
-.skill-dot {
-  height: 14px;
-  width: 14px;
-  margin: 0 3px;
-  background-color: #bbb;
-  border-radius: 50%;
-  display: inline-block;
-  animation: blinkDot 2s infinite;
-}
-.skill-dot.active {
-  background-color: #00DFD8;
-  animation: blinkDotActive 2s infinite;
-}
-@keyframes blinkDot {
-  0%, 100% { opacity: 0.3; }
-  50% { opacity: 1; }
-}
-@keyframes blinkDotActive {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.6; }
-}
-</style>
