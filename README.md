@@ -30,11 +30,11 @@
 🧹 Data Cleaning | 📊 Visualization | 🤖 Model Building | ⚡ Feature Selection | 💾 Model Saving | 🧩 Modular Design  
 
 <div style="font-family: monospace; width: 320px; margin: 0 auto;">
-  <div><b>Data Cleaning:</b> <span class="loading-bar" style="--progress:80;"></span></div>
-  <div><b>Visualization:</b> <span class="loading-bar" style="--progress:75;"></span></div>
-  <div><b>Model Building:</b> <span class="loading-bar" style="--progress:85;"></span></div>
-  <div><b>Feature Selection:</b> <span class="loading-bar" style="--progress:70;"></span></div>
-  <div><b>Model Saving:</b> <span class="loading-bar" style="--progress:80;"></span></div>
+  <div><b>Data Cleaning:</b> <div class="progress-bar"><div class="progress" style="width: 80%;"></div></div></div>
+  <div><b>Visualization:</b> <div class="progress-bar"><div class="progress" style="width: 75%;"></div></div></div>
+  <div><b>Model Building:</b> <div class="progress-bar"><div class="progress" style="width: 85%;"></div></div></div>
+  <div><b>Feature Selection:</b> <div class="progress-bar"><div class="progress" style="width: 70%;"></div></div></div>
+  <div><b>Model Saving:</b> <div class="progress-bar"><div class="progress" style="width: 80%;"></div></div></div>
 </div>
 
 ---
@@ -42,11 +42,11 @@
 ## 🧪 Tools & Technologies Used
 
 <p align="center">
-  <span class="badge-spin" style="background:#3776AB; padding:8px 16px; border-radius:12px; color:white; font-weight:bold; margin:4px; display:inline-block;">Python</span>
-  <span class="badge-pulse" style="background:#150458; padding:8px 16px; border-radius:12px; color:white; font-weight:bold; margin:4px; display:inline-block;">Pandas</span>
-  <span class="badge-breathe" style="background:#013243; padding:8px 16px; border-radius:12px; color:white; font-weight:bold; margin:4px; display:inline-block;">NumPy</span>
-  <span class="badge-beat" style="background:#F7931E; padding:8px 16px; border-radius:12px; color:white; font-weight:bold; margin:4px; display:inline-block;">Scikit-Learn</span>
-  <span class="badge-wave" style="background:#11557C; padding:8px 16px; border-radius:12px; color:white; font-weight:bold; margin:4px; display:inline-block;">Matplotlib</span>
+  <span class="badge-spin" style="background:#3776AB;">Python</span>
+  <span class="badge-pulse" style="background:#150458;">Pandas</span>
+  <span class="badge-breathe" style="background:#013243;">NumPy</span>
+  <span class="badge-beat" style="background:#F7931E;">Scikit-Learn</span>
+  <span class="badge-wave" style="background:#11557C;">Matplotlib</span>
 </p>
 
 ---
@@ -58,11 +58,11 @@
     <th align="left">Skill</th>
     <th align="left">Level</th>
   </tr>
-  <tr><td>Python</td><td><span class="animated-dots" style="--count:5;">🟢</span> 100%</td></tr>
-  <tr><td>Pandas</td><td><span class="animated-dots" style="--count:4;">🟢</span><span>⚪</span> 80%</td></tr>
-  <tr><td>NumPy</td><td><span class="animated-dots" style="--count:4;">🟢</span><span>⚪</span> 80%</td></tr>
-  <tr><td>ML Models</td><td><span class="animated-dots" style="--count:5;">🟢</span> 95%</td></tr>
-  <tr><td>Visualization</td><td><span class="animated-dots" style="--count:4;">🟢</span><span>⚪</span> 85%</td></tr>
+  <tr><td>Python</td><td><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span> 100%</td></tr>
+  <tr><td>Pandas</td><td><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot"></span> 80%</td></tr>
+  <tr><td>NumPy</td><td><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot"></span> 80%</td></tr>
+  <tr><td>ML Models</td><td><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span> 95%</td></tr>
+  <tr><td>Visualization</td><td><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot active"></span><span class="skill-dot"></span> 85%</td></tr>
 </table>
 
 ---
@@ -104,37 +104,71 @@
   0% {filter: hue-rotate(0deg);}
   100% {filter: hue-rotate(360deg);}
 }
-.loading-bar {
-  display: inline-block;
-  width: 300px;
-  height: 20px;
+.progress-bar {
   background: #ddd;
   border-radius: 10px;
-  position: relative;
-  overflow: hidden;
+  height: 20px;
+  width: 300px;
   margin: 6px 0;
-  vertical-align: middle;
+  overflow: hidden;
+  position: relative;
 }
-.loading-bar::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
+.progress {
   height: 100%;
-  width: calc(var(--progress) * 1%);
   background: linear-gradient(270deg, #00DFD8, #007CF0, #00DFD8);
-  animation: fillBar 3s ease forwards;
-  border-radius: 10px;
+  animation: fillWidth 2s ease forwards;
+  border-radius: 10px 0 0 10px;
+  width: 0%;
 }
-@keyframes fillBar {
-  from {width: 0;}
-  to {width: calc(var(--progress) * 1%);}
+@keyframes fillWidth {
+  from { width: 0; }
+  to { width: var(--width, 80%); }
 }
-.badge-spin { animation: spin 3s linear infinite; }
-.badge-pulse { animation: pulse 2.5s ease-in-out infinite; }
-.badge-breathe { animation: breathe 3s ease-in-out infinite; }
-.badge-beat { animation: beat 1.5s ease-in-out infinite; }
-.badge-wave { animation: wave 3s ease-in-out infinite; color:white; }
+.badge-spin {
+  color: white;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 12px;
+  margin: 4px;
+  display: inline-block;
+  animation: spin 3s linear infinite;
+}
+.badge-pulse {
+  color: white;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 12px;
+  margin: 4px;
+  display: inline-block;
+  animation: pulse 2.5s ease-in-out infinite;
+}
+.badge-breathe {
+  color: white;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 12px;
+  margin: 4px;
+  display: inline-block;
+  animation: breathe 3s ease-in-out infinite;
+}
+.badge-beat {
+  color: white;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 12px;
+  margin: 4px;
+  display: inline-block;
+  animation: beat 1.5s ease-in-out infinite;
+}
+.badge-wave {
+  color: white;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 12px;
+  margin: 4px;
+  display: inline-block;
+  animation: wave 3s ease-in-out infinite;
+}
 
 @keyframes spin {
   0% { transform: rotate(0deg);}
@@ -157,23 +191,26 @@
   50% {color: #00DFD8;}
 }
 
-/* Animated dots for skill */
-.animated-dots {
-  --count: 5;
+.skill-dot {
+  height: 14px;
+  width: 14px;
+  margin: 0 3px;
+  background-color: #bbb;
+  border-radius: 50%;
   display: inline-block;
+  animation: blinkDot 2s infinite;
+  animation-fill-mode: both;
 }
-.animated-dots > span {
-  animation: blinkDots 1.5s infinite;
-  animation-delay: calc(var(--i) * 0.3s);
+.skill-dot.active {
+  background-color: #00DFD8;
+  animation: blinkDotActive 2s infinite;
 }
-.animated-dots > span:nth-child(1) { --i: 0;}
-.animated-dots > span:nth-child(2) { --i: 1;}
-.animated-dots > span:nth-child(3) { --i: 2;}
-.animated-dots > span:nth-child(4) { --i: 3;}
-.animated-dots > span:nth-child(5) { --i: 4;}
-
-@keyframes blinkDots {
+@keyframes blinkDot {
+  0%, 100% {opacity: 0.3;}
+  50% {opacity: 1;}
+}
+@keyframes blinkDotActive {
   0%, 100% {opacity: 1;}
-  50% {opacity: 0.3;}
+  50% {opacity: 0.6;}
 }
 </style>
