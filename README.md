@@ -19,7 +19,7 @@
 
 ## 🎓 About This Repository
 
-This repository is a **showcase of advanced machine learning models** I built as part of my aspiring ML engineer journey. It highlights strong skills in designing, training, and deploying intelligent AI solutions with highly attractive visuals and polished presentation.
+This repository is a **showcase of advanced machine learning models** I built as part of ML engineer journey. It highlights strong skills in designing, training, and deploying intelligent AI solutions with highly attractive visuals and polished presentation.
 
 ---
 
