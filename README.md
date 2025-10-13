@@ -1,73 +1,83 @@
-🧠 **Machine Learning Model Project**  
-**By Sabari Murugan S — Aspiring ML Engineer | Final Year AIML Student**
+🧠 Machine Learning Model Project
+By Sabari Murugan S — Aspiring ML Engineer | Final Year AIML Student
 
-Hello! I'm Sabari Murugan, a final-year BSc AIML student with a strong interest in building **real-world Machine Learning solutions**. This project showcases my hands-on experience: from **data cleaning** to **predictive model building**.
-
----
-
-📌 **What This Project Means to Me**
-
-As someone passionate about ML and AI, this project helped me:  
-
-- 🚀 Apply ML concepts learned in class and self-study  
-- 🔄 Understand data flow through the **ML pipeline**  
-- 💻 Write clean, structured Python code for ML  
-- 🌟 Strengthen my portfolio for **jobs & internships**
+Hello! I'm Sabari Murugan, a final-year BSc AIML student passionate about building real-world ML solutions.
+This project demonstrates end-to-end ML workflows: from data cleaning & preprocessing to model building & evaluation.
 
 ---
 
-🛠 **Skills Demonstrated**
+📌 What This Project Means to Me
 
-- 🧹 Data preprocessing & cleaning with **pandas**  
-- 📊 Visual exploration using **matplotlib** & **seaborn**  
-- 🤖 Model building with **scikit-learn**  
-- ⚡ Feature selection & encoding  
-- 💾 Model saving with **joblib/pickle**  
-- 🧩 Modular, readable, and maintainable code
+💡 Applied ML concepts learned in class and self-study
+🔄 Understood data flow through the ML pipeline
+💻 Wrote clean, structured Python code
+🌟 Strengthened my portfolio for jobs & internships
 
 ---
 
-🧪 **Tools & Technologies Used**
+🛠 Skills Demonstrated
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
+Data preprocessing & cleaning 🧹 | Visual exploration 📊
+Model building 🤖 | Feature selection ⚡ | Model saving 💾
+Modular, readable code 🧩
 
----
+**Progress Overview:**
 
-🌱 **My Learning Path**
-
-- Python, **pandas**, SQL for data analysis  
-- Excel & Power BI for business insights  
-- AWS & cloud deployment tools (coming soon!)  
-- Exploring **Deep Learning** with TensorFlow & Keras next
+Data Cleaning      [██████████░░░░░░] 80%
+Visualization      [█████████░░░░░░░] 75%
+Model Building     [███████████░░░░░] 85%
+Feature Selection  [████████░░░░░░░░] 70%
+Model Saving       [██████████░░░░░░] 80%
 
 ---
 
-🚀 **What’s Next?**
+🧪 Tools & Technologies Used
 
-- Deploy ML models using **Streamlit**  
-- Automate workflows using **Jira**  
-- Combine cloud tools like AWS with ML projects  
-- Contribute to open-source and real-world datasets  
+[Python] ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+[Pandas] ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+[NumPy] ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+[Scikit-Learn] ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+[Matplotlib] ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+
+**Live Skill Indicators:**
+
+Python        🟢🟢🟢🟢🟢 100%
+Pandas        🟢🟢🟢🟢⚪ 80%
+NumPy         🟢🟢🟢🟢⚪ 80%
+ML Models     🟢🟢🟢🟢🟢 95%
+Visualization 🟢🟢🟢🟢⚪ 85%
 
 ---
 
-🤝 **Let’s Connect!**
+🌱 My Learning Path
 
-If you’re a recruiter, mentor, or fellow learner — let’s collaborate!  
-Thanks for exploring my work 😊  
+Python, pandas, SQL | Excel & Power BI | AWS & cloud deployment (coming soon!) | Deep Learning with TensorFlow & Keras
+
+**Pipeline Flow:**
+
+[Data Cleaning] --> [EDA/Visualization] --> [Feature Engineering] --> [Model Building] --> [Evaluation] --> [Deployment]
+
+---
+
+🚀 What’s Next?
+
+Streamlit Deployment 🟢 | Jira Automation 🔵 | AWS + ML Integration 🟡 | Open-source contributions 🟠
+
+**Live Project Flow:**
+
+Training      🟢🟢🟢🟢🟢
+Testing       🔵🔵🔵🔵⚪
+Evaluating    🟡🟡🟡🟡⚪
+Optimizing    🟠🟠🟠🟠⚪
+Model Ready   💥💥💥💥💥
+
+---
+
+🤝 Let’s Connect!
+
+Recruiters, mentors, or fellow learners — feel free to connect!
 
 > 📍 "Learning by doing — one project at a time."
 
----
-
-🔗 **View this project on GitHub**  
-[https://github.com/sabarimurugans47](https://github.com/sabarimurugans47)
-
----
-
-💫 **Animated Workflow Example (Optional GIF)**  
-![ML Workflow](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
+🔗 View Project on GitHub:  
+https://github.com/sabarimurugans47
