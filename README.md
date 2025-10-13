@@ -1,109 +1,73 @@
-🧠 Machine Learning Model Project
+🧠 **Machine Learning Model Project**  
+**By Sabari Murugan S — Aspiring ML Engineer | Final Year AIML Student**
 
-By Sabari Murugan S — Aspiring ML Engineer | Final Year AIML Student
-
-Hello! I'm Sabari Murugan, a final-year BSc AIML student with a strong interest in building real-world Machine Learning solutions. This project is part of my learning journey to become a skilled ML Engineer / Data Scientist. It reflects my hands-on experience working with data — right from cleaning and preprocessing to building predictive models.
-
+Hello! I'm Sabari Murugan, a final-year BSc AIML student with a strong interest in building **real-world Machine Learning solutions**. This project showcases my hands-on experience: from **data cleaning** to **predictive model building**.
 
 ---
 
-📌 What This Project Means to Me
+📌 **What This Project Means to Me**
 
-As someone who is passionate about Machine Learning and AI, I created this project to:
+As someone passionate about ML and AI, this project helped me:  
 
-Apply the ML concepts I've learned in class and through self-study
-
-Understand how data flows through each stage of the ML pipeline
-
-Build confidence in writing clean, structured Python code for ML
-
-Strengthen my portfolio for future job and internship opportunities
-
-
+- 🚀 Apply ML concepts learned in class and self-study  
+- 🔄 Understand data flow through the **ML pipeline**  
+- 💻 Write clean, structured Python code for ML  
+- 🌟 Strengthen my portfolio for **jobs & internships**
 
 ---
 
-🛠 Skills Demonstrated
+🛠 **Skills Demonstrated**
 
-Data preprocessing and cleaning using pandas
-
-Visual exploration using matplotlib and seaborn
-
-Model building with scikit-learn
-
-Feature selection and encoding
-
-Model saving using joblib/pickle
-
-Writing modular, easy-to-follow code
-
-
+- 🧹 Data preprocessing & cleaning with **pandas**  
+- 📊 Visual exploration using **matplotlib** & **seaborn**  
+- 🤖 Model building with **scikit-learn**  
+- ⚡ Feature selection & encoding  
+- 💾 Model saving with **joblib/pickle**  
+- 🧩 Modular, readable, and maintainable code
 
 ---
 
-🧪 Tools & Technologies Used
+🧪 **Tools & Technologies Used**
 
-Python
-
-pandas, numpy
-
-matplotlib, seaborn
-
-scikit-learn
-
-Jupyter Notebook / Google Colab
-
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)  
 
 ---
 
-🌱 My Learning Path
+🌱 **My Learning Path**
 
-This project is one step in my broader learning roadmap, which includes:
-
-Python, pandas, and SQL for data analysis
-
-Excel and Power BI for business insights
-
-AWS and deployment tools (coming soon!)
-
-Exploring Deep Learning with TensorFlow and Keras next
-
-
+- Python, **pandas**, SQL for data analysis  
+- Excel & Power BI for business insights  
+- AWS & cloud deployment tools (coming soon!)  
+- Exploring **Deep Learning** with TensorFlow & Keras next
 
 ---
 
-🚀 What’s Next?
+🚀 **What’s Next?**
 
-I'm currently exploring ways to:
-
-Deploy ML models using Streamlit
-
-Automate workflows using Jira
-
-Combine cloud tools like AWS with ML projects
-
-Continue contributing to open-source and real-world datasets
-
-
+- Deploy ML models using **Streamlit**  
+- Automate workflows using **Jira**  
+- Combine cloud tools like AWS with ML projects  
+- Contribute to open-source and real-world datasets  
 
 ---
 
-🤝 Let’s Connect!
+🤝 **Let’s Connect!**
 
-If you’re a recruiter, mentor, or fellow learner — I’d love to connect and collaborate!
-Thanks for taking the time to explore my work 😊
+If you’re a recruiter, mentor, or fellow learner — let’s collaborate!  
+Thanks for exploring my work 😊  
 
 > 📍 "Learning by doing — one project at a time."
 
+---
 
-
+🔗 **View this project on GitHub**  
+[https://github.com/sabarimurugans47](https://github.com/sabarimurugans47)
 
 ---
 
-🔗 View this project on GitHub
-
-(https://github.com/sabarimurugans47)
-
-
----
+💫 **Animated Workflow Example (Optional GIF)**  
+![ML Workflow](https://media.giphy.com/media/l0Exk8EUzSLsrErEQ/giphy.gif)
