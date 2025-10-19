@@ -1,3 +1,4 @@
+<!-- 🌟 Animated Gradient Header -->
 <h1 align="center" style="
   font-family: 'Segoe UI Black', 'Poppins', 'Trebuchet MS', sans-serif;
   font-weight: 900;
@@ -14,6 +15,27 @@
 ">
   🤖 Machine Learning Models
 </h1>
+
+<!-- 🔵 Animated Line -->
+<svg width="100%" height="30">
+  <line x1="0" y1="15" x2="100%" y2="15" stroke="steelblue" stroke-width="2">
+    <animate attributeName="x2" from="0" to="100%" dur="2s" repeatCount="indefinite" />
+  </line>
+</svg>
+
+<!-- 🔴 Pulsing Circle -->
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="10" fill="crimson">
+    <animate attributeName="r" values="10;20;10" dur="1s" repeatCount="indefinite" />
+  </circle>
+</svg>
+
+<!-- 🟢 Sliding Dot -->
+<svg width="100%" height="30">
+  <circle cx="0" cy="15" r="5" fill="green">
+    <animate attributeName="cx" from="0" to="100%" dur="3s" repeatCount="indefinite" />
+  </circle>
+</svg>
 
 ---
 
@@ -73,6 +95,9 @@ This repository is a **showcase of advanced machine learning models** I built as
 
 - Open to mentorship, knowledge exchange, and professional partnerships in **AI & ML**  
 - Committed to consistent learning and impactful project contributions  
+
+---
+
 
 ---
 
