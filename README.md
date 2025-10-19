@@ -40,12 +40,6 @@
 ---
 
 ## 🎓 About This Repository
-## 🎓 About This Repository
-<svg width="100%" height="6">
-  <line x1="0" y1="3" x2="100%" y2="3" stroke="#00CED1" stroke-width="2">
-    <animate attributeName="x2" from="0" to="100%" dur="2s" repeatCount="indefinite" />
-  </line>
-</svg>
 
 This repository is a **showcase of advanced machine learning models** I built as part of ML engineer journey. It highlights strong skills in designing, training, and deploying intelligent AI solutions with highly attractive visuals and polished presentation.
 
