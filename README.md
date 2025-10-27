@@ -40,18 +40,6 @@
 ---
 
 ## 🎓 About This Repository
-## 📘 Ordered Notebook Index
-
-01. [Stroke Predictor](./01.Stroke%20Predictor.ipynb)  
-02. [Churn predictor](./02.Churn%20predictor.ipynb)  
-03. [Loan approval predictor](./03.Loan%20approval%20predictor.ipynb)  
-04. [Rainfall predictor](./04.Rainfall%20predictor.ipynb)  
-05. [Movie revenue predictor](./05.Movie%20revenue%20predictor.ipynb)  
-06. [Medical cost](./06.Medical%20cost.ipynb)  
-07. [Wine Quality Detector](./07.Wine%20Quality%20Detector.ipynb)  
-08. [Ensemble Wins Generalization](./08.Ensemble%20Wins%20Generalization.ipynb)  
-09. [Concrete Strength Reader](./09.Concrete%20Strength%20Reader.ipynb)
-
 
 This repository is a **showcase of advanced machine learning models** I built as part of ML engineer journey. It highlights strong skills in designing, training, and deploying intelligent AI solutions with highly attractive visuals and polished presentation.
 
